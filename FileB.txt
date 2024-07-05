@@ -1,1 +1,2 @@
 This if fileB
+This is for Squash merge
